@@ -23,7 +23,6 @@
 
 using UnityEngine;
 using UnityEditor;
-using Smaa;
 
 namespace SmaaEditor
 {
